@@ -1,0 +1,17 @@
+{
+  "name": "class02",
+  "version": "1.0.0",
+  "description": "First code using NodeJs",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ian",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "date-fns": "^2.30.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
